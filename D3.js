@@ -193,7 +193,17 @@ console.log(crewMass);
 
   Una volta fatto, modifica la massa di qualche elemento dell'equipaggio e vedi se riesci ad ottenere un messaggio diverso.
 */
-
+if (crewMass < 500) {
+  console.log("Ship is under loaded");
+} else if (crewMass < 500) {
+  console.log("Ship is under loaded");
+} else if (crewMass < 500) {
+  console.log("Ship is under loaded");
+} else if (crewMass < 500) {
+  console.log("Ship is under loaded");
+} else if (crewMass < 500) {
+  console.log("Ship is under loaded");
+}
 /* ESERCIZIO 8
   Usa un for loop per cambiare il valore della proprietà "gender" di alcuni personaggi dal valore "n/a" a "robot" (Tip: puoi effettuare la riassegnazione del valore corrispondente o creare un nuovo array)
 */
